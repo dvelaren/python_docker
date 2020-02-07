@@ -1,0 +1,13 @@
+body {
+    background: #fafafa;
+    color: #333333;
+    margin-top: 5rem;
+  }
+
+.bg-steel {
+    background-color: #415cd4;
+}
+
+.site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+  }
