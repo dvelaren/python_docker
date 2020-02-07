@@ -2,4 +2,4 @@
 
 This application dockerizes a python with flask application.
 
-To run, simply run `docker-compose up`, Then navigate to http://localhost:5000
+To run, simply run `docker-compose up`, then navigate to http://localhost:5000
